@@ -1,4 +1,4 @@
-﻿Console.ForegroundColor = ConsoleColor.DarkRed;
+﻿Console.ForegroundColor = ConsoleColor.DarkBlue;
 Console.WriteLine(" ");
 Console.WriteLine("Solidão de Volta");
 Console.ResetColor();
@@ -27,3 +27,4 @@ Não preciso mais me explicar
 Onde vou a ninguém mais importa
 Onde vou agora é");
 Console.WriteLine(" ");
+Console.ResetColor();
